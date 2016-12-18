@@ -7,9 +7,10 @@ Just a container (for now)
 
 ## React
 * [react](https://github.com/facebook/react)
-`npm install --save react
+`npm install --save react`
 * [react-dom](https://www.npmjs.com/package/react-dom)
-https://www.npmjs.com/package/react-dom
+`npm install --save react-dom`
+
 
 ## Redux
 
