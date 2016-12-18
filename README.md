@@ -9,7 +9,7 @@ Just a container (for now)
 * [react](https://github.com/facebook/react)
 `npm install --save react`
 
-React is a JavaScript library for building user interfaces
+> React is a JavaScript library for building user interfaces
 
 * [react-dom](https://www.npmjs.com/package/react-dom)
 `npm install --save react-dom`
