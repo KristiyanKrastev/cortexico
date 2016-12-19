@@ -30,12 +30,7 @@ Just a container (for now)
 ### Redux-form
 * [Redux-Form] (https://github.com/erikras/redux-form)    
   Abstracting Form State with Redux Form    
-  [![Abstracting Form State with Redux Form] (http://img.youtube.com/vi/eDTi7lYR1VU/0.jpg)](http://www.youtube.com/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")  
-  
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=eDTi7lYR1VU " frameborder="0" allowfullscreen></iframe>   
-
-with a **youtube** video embedded   
-
+  [![Abstracting Form State with Redux Form] (http://img.youtube.com/vi/eDTi7lYR1VU/0.jpg)](http://www.youtube.com/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")    
 * [Redux-Form example] (http://insin.github.io/redux-form-example/)
 
 ## CSS
