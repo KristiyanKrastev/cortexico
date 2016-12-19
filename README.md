@@ -30,6 +30,9 @@ Just a container (for now)
 ### Redux-form
 * [Redux-Form] (https://github.com/erikras/redux-form)
 * [Abstracting Form State with Redux Form] (https://youtu.be/eDTi7lYR1VU)
+* [![Abstracting Form State with Redux Form](http://img.youtu.be/eDTi7lYR1VU/0.jpg)](http://www.youtu.be/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")
+
+* [Redux-Form example] (http://insin.github.io/redux-form-example/)
 
 ## CSS
 * [cssnano](https://github.com/ben-eb/cssnano)
