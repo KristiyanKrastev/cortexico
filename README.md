@@ -16,6 +16,15 @@ Just a container (for now)
 
 
 ## Redux
+* [Redux] (https://github.com/reactjs/redux)
+>  Predictable state container for JavaScript apps
+`npm install --save redux`
+### Redux-Saga
+
+
+### Redux-form
+* [Redux-Form] (https://github.com/erikras/redux-form)
+* [Abstracting Form State with Redux Form] (https://youtu.be/eDTi7lYR1VU)
 
 ## CSS
 * [cssnano](https://github.com/ben-eb/cssnano)
