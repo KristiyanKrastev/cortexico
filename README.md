@@ -28,7 +28,7 @@ Just a container (for now)
 
 
 ### Redux-form
-* [Redux-Form] (https://github.com/erikras/redux-form)
+* [Redux-Form] (https://github.com/erikras/redux-form)    
   Abstracting Form State with Redux Form    
   [![Abstracting Form State with Redux Form] (http://img.youtube.com/vi/eDTi7lYR1VU/0.jpg)](http://www.youtube.com/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")
 
