@@ -7,18 +7,23 @@ Just a container (for now)
 
 ## React
 * [react](https://github.com/facebook/react)
+
 `npm install --save react`
 
-> React is a JavaScript library for building user interfaces
+>  React is a JavaScript library for building user interfaces
 
 * [react-dom](https://www.npmjs.com/package/react-dom)
 `npm install --save react-dom`
 
 
 ## Redux
+
 * [Redux] (https://github.com/reactjs/redux)
+
 >  Predictable state container for JavaScript apps
+
 `npm install --save redux`
+
 ### Redux-Saga
 
 
