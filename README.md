@@ -33,12 +33,15 @@ Just a container (for now)
 ## Redux
 
 * [Redux] (https://github.com/reactjs/redux)
+* [VIDEOS - Building React Applications with Idiomatic Redux] (https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+* [[React/Redux] A Better Way to Load Data] (https://www.youtube.com/watch?v=JicUNpwLzLY)
 
 >  Predictable state container for JavaScript apps
 
 `npm install --save redux`
 
 ### Redux-Saga
+* [VIDEO - How to Make API Calls in Redux with redux-saga] (https://www.youtube.com/watch?v=msx0Qiu8NxQ&list=PLw7fHewFA6OTyUnLiZ1HQvYdzjp9ARMQw&index=1)
 
 
 ### Redux-form
