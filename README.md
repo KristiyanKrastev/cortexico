@@ -21,6 +21,7 @@ Just a container (for now)
 ## React
 * [react](https://github.com/facebook/react)   
 * [react in patterns](https://github.com/krasimir/react-in-patterns)
+* [[TUTORIAL] - Leveling Up With React: Container Components] (https://css-tricks.com/learning-react-container-components/)
 
 `npm install --save react`
 
@@ -29,23 +30,29 @@ Just a container (for now)
 * [react-dom](https://www.npmjs.com/package/react-dom)
 `npm install --save react-dom`
 
+## React-router
+* [react-router](https://github.com/ReactTraining/react-router)
 
 ## Redux
 
 * [Redux] (https://github.com/reactjs/redux)
 * [VIDEOS - Building React Applications with Idiomatic Redux] (https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [[React/Redux] A Better Way to Load Data] (https://www.youtube.com/watch?v=JicUNpwLzLY)
+* [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 >  Predictable state container for JavaScript apps
 
 `npm install --save redux`
 
 ### Redux-Saga
+* [redux-saga](https://github.com/yelouafi/redux-saga)
 * [VIDEO - How to Make API Calls in Redux with redux-saga] (https://www.youtube.com/watch?v=msx0Qiu8NxQ&list=PLw7fHewFA6OTyUnLiZ1HQvYdzjp9ARMQw&index=1)
+* [[TUTORIAL] Async operations using redux-saga](https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.985blouvr)
 
 
 ### Redux-form
 * [Redux-Form] (https://github.com/erikras/redux-form)    
+
   Abstracting Form State with Redux Form    
   [![Abstracting Form State with Redux Form] (http://img.youtube.com/vi/eDTi7lYR1VU/0.jpg)](http://www.youtube.com/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")    
 * [Redux-Form example] (http://insin.github.io/redux-form-example/)
@@ -69,3 +76,11 @@ Just a container (for now)
 
 # Utils
 * [qs - A querystring parser that supports nesting and arrays, with a depth limit](https://www.npmjs.com/package/qs)
+* [cheerio] (https://github.com/cheeriojs/cheerio)
+
+# Optimizations
+* [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.ktmc7phxa)
+
+# Starter boilerplates
+* [react-redux-universal-hot-example [with feathers.js]](https://github.com/bertho-zero/react-redux-universal-hot-example)
+* [rfx] (https://github.com/foxhound87/rfx-stack)
