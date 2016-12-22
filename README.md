@@ -57,7 +57,7 @@ Just a container (for now)
   [![Abstracting Form State with Redux Form] (http://img.youtube.com/vi/eDTi7lYR1VU/0.jpg)](http://www.youtube.com/watch?v=eDTi7lYR1VU "Abstracting Form State with Redux Form")    
 * [Redux-Form example] (http://insin.github.io/redux-form-example/)
 
-## CSS / fonts / icons
+## CSS / fonts / icons / components
 * [react-css-modules] (https://github.com/gajus/react-css-modules)    
 * [material icons] (https://material.io/icons/)   
 
@@ -65,6 +65,9 @@ Just a container (for now)
 
 * [cssnano](https://github.com/ben-eb/cssnano)
 * [csso](https://github.com/css/csso)
+
+## components
+* [react-virtualized](http://bvaughn.github.io/react-virtualized/)
 
 
 ## design frameworks
