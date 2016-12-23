@@ -83,6 +83,7 @@ Just a container (for now)
 
 # Optimizations
 * [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.ktmc7phxa)
+* [optimizing-react-redux-store-for-high-performance-updates](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.dtophxguv)
 
 # Starter boilerplates
 * [react-redux-universal-hot-example [with feathers.js]](https://github.com/bertho-zero/react-redux-universal-hot-example)
