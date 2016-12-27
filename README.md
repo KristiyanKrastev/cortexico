@@ -89,3 +89,4 @@ Just a container (for now)
 # Starter boilerplates
 * [react-redux-universal-hot-example [with feathers.js]](https://github.com/bertho-zero/react-redux-universal-hot-example)
 * [rfx] (https://github.com/foxhound87/rfx-stack)
+* [advanced boilerplate](https://github.com/sebastian-software/advanced-boilerplate)
