@@ -60,6 +60,10 @@ Just a container (for now)
 ## CSS / fonts / icons / components
 * [react-css-modules] (https://github.com/gajus/react-css-modules)    
 * [material icons] (https://material.io/icons/)   
+* [12 Best Responsive CSS Grid Systems] (http://www.freewebdesigntutorials.net/12-best-responsive-css-grid-systems/)
+* [Material design guidelines] (https://material.io/)
+* [basscss](http://basscss.com/)
+
 
 ### CSS optimizers
 
@@ -69,7 +73,8 @@ Just a container (for now)
 ## components
 * [react-virtualized](http://bvaughn.github.io/react-virtualized/)
 * [React Components Catalog] (https://github.com/brillout/awesome-react-components)
-
+* [react-swipeable-views] (https://github.com/oliviertassinari/react-swipeable-views)  
+* [react-materialui-notifications] (https://github.com/puranjayjain/react-materialui-notifications)
 
 ## design frameworks
 * [15 material design frameworks](http://tutorialzine.com/2016/03/the-15-best-material-design-frameworks-and-libraries/)
@@ -91,3 +96,4 @@ Just a container (for now)
 * [react-redux-universal-hot-example [with feathers.js]](https://github.com/bertho-zero/react-redux-universal-hot-example)
 * [rfx] (https://github.com/foxhound87/rfx-stack)
 * [advanced boilerplate](https://github.com/sebastian-software/advanced-boilerplate)
+* [react-universal-saga-modular](https://github.com/xkawi/react-universal-saga-modular)
