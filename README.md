@@ -68,6 +68,7 @@ Just a container (for now)
 
 ## components
 * [react-virtualized](http://bvaughn.github.io/react-virtualized/)
+* [React Components Catalog] (https://github.com/brillout/awesome-react-components)
 
 
 ## design frameworks
