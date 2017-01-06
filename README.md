@@ -87,6 +87,8 @@ Just a container (for now)
 * [qs - A querystring parser that supports nesting and arrays, with a depth limit](https://www.npmjs.com/package/qs)
 * [cheerio] (https://github.com/cheeriojs/cheerio)
 * [ramda](http://ramdajs.com/)
+* [vex - Drop-in replacement for alert, confirm, and prompt] (https://github.com/HubSpot/vex)
+* [Mozilla L20n - A developer-friendly framework that places language in localizer's hands.] (http://l20n.org/)
 
 # Optimizations
 * [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.ktmc7phxa)
